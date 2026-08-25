@@ -81,15 +81,16 @@ A lista possui quatro jogos cadastrados diretamente no código.
 
 ### `/boas-vindas`
 
-Coloque aqui o print da rota `/boas-vindas`.
+
+![Rota boas-vindas](boasvindas.png)
 
 ### `/destaque`
 
-Coloque aqui o print da rota `/destaque`.
+![Rota destaques](destaques.png)
 
 ### `/jogos`
 
-Coloque aqui o print da rota `/jogos`.
+![Rota jogos](jogos.png)
 
 ## 🧠 Perguntas do desafio
 
